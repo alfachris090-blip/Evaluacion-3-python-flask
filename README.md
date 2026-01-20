@@ -12,5 +12,4 @@ Búsqueda del nombre más largo: Encuentra el nombre más largo de una lista de 
 
 *   `evaluacion3.py`: Archivo principal con la lógica de la aplicación Flask.
 *   `templates/`: Carpeta con los archivos HTML.
-*   `static/`: Carpeta con los archivos CSS (si los hay).
 *   `info_proyecto.txt`: Archivo con información adicional del proyecto.
