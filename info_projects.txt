@@ -1,0 +1,5 @@
+Proyecto: Evaluación 3 - Introducción a Python
+Descripción: Aplicación web con Flask que incluye dos ejercicios: cálculo de notas y búsqueda de nombre más largo.
+Enlace GitHub: [Aquí coloca tu enlace cuando crees la cuenta]
+Dependencias instaladas: Flask (mediante pip install flask)
+Alumno Christopher Alfaro
